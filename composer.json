@@ -2,7 +2,9 @@
     "name": "cloudwaysapi/phpsdk",
     "type": "SDK",
     "description": "Cloudways API SDK for PHP",
-    "keywords": ["cloudways API"],
+    "keywords": [
+        "cloudways API"
+    ],
     "homepage": "http://www.cloudways.com/",
     "license": "MIT",
     "authors": [
@@ -18,9 +20,9 @@
     },
     "autoload": {
         "psr-4": {
-            "Cloudways\\" : "src/Cloudways/"
+            "Cloudways\\": "src/Cloudways/"
         }
     },
-+   "version": "1.0.0",
-+	"minimum-stability" : "dev" 
+    "version": "1.0.0",
+    "minimum-stability": "dev"
 }
