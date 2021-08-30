@@ -13,7 +13,7 @@
 		"homepage": "https://github.com/ahmedkhan847"
 	}],
 	"require": {
-		"guzzlehttp/guzzle": "^6.2|^7.0",
+		"guzzlehttp/guzzle": "^7.0",
 		"phpunit/phpunit": "5.*"
 	},
 	"autoload": {
