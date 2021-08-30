@@ -1,5 +1,5 @@
 {
-	"name": "cloudwaysapi/phpsdk",
+	"name": "lenvanessen/cloudwayssdk",
 	"type": "SDK",
 	"description": "Cloudways API SDK for PHP",
 	"keywords": [
